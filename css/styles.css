@@ -1,0 +1,57 @@
+img.logo {
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  color: #fed504;
+  ;
+}
+
+h2 {
+  clear: both;
+  text-align: center;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 20px;
+  margin: auto;
+  padding: auto;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: aqua;
+}
+
+img.banner {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+img.past {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.column {
+  width: 30%;
+  float: left;
+}
+
+div.past {
+  background-color: aliceblue;
+}
